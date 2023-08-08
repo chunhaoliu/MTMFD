@@ -23,7 +23,7 @@ The MTMFD contains turning movement flow data collected over a span of two years
 
 If you use the MTMFD in your work, please cite it as:
 
-[Liu, C. (2023). Milltown Turning Movement Flow Dataset (MTMFD). GitHub repository. URL: [link](https://github.com/your_username/MTMFD)]
+[Liu, C. (2023). Milltown Turning Movement Flow Dataset (MTMFD). GitHub repository. URL: [link](https://github.com/chunhaoliu/MTMFD.git)]
 
 ## License
 
